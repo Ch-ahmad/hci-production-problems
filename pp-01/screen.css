@@ -7,3 +7,45 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 
 /* Begin site styles below */
+
+body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header {
+    font: 2em 'sanchez', Noto Sherif;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section {
+    font: 1.4em 'Nunito', sans-serif;
+    margin-top: auto;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+.description-item-noto {
+    font-weight: 900;
+    font-family: 'Noto Serif', serif;
+}
+
+.description-item-text-noto {
+    font-family: 'Noto Serif', serif;
+    margin-bottom: 10px;
+}
+
+.decription-item-sanchez {
+    font-weight: 900;
+    font-family: 'Sanchez', serif;
+}
+
+.description-item-text-sanchez {
+    font-family: 'Sanchez', serif;
+}
