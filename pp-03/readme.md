@@ -29,14 +29,16 @@ Small commits to your Production Problems repository that include:
 2. An explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guideline One (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline One (URL):https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/
+Remove white space on the edges. It will make the use of the full screen making it more attractive and useful.
+ This will just need some margins and padding modifications.
 
-* HCI Guideline Two (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline Two (URL):https://developer.apple.com/design/human-interface-guidelines/ios/bars/sidebars/
+* The scroll design will be very effective in both touch screen and using arrow keys while going through the information.
+ It can work as a quick tool to get the information they require.
 
-* HCI Guideline Three (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline Three (URL):https://developer.apple.com/design/human-interface-guidelines/ios/bars/sidebars/
+* Field Validation is one of the most important aspects of user experience while recording information. It can be really frustrating when the user is asked to re enter the information at the time of submission.
 
 For the Production Problem discussion next week, be sure to share your sketches and chosen
 guidelines.
