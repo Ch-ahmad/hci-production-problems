@@ -30,7 +30,7 @@ Small commits to your Production Problems repository that include:
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
 * HCI Guideline One (URL):https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/
-*Remove white space on the edges. It will make the use of the full screen making it more attractive and useful.
+* Remove white space on the edges. It will make the use of the full screen making it more attractive and useful.
  This will just need some margins and padding modifications.
 
 * HCI Guideline Two (URL):https://developer.apple.com/design/human-interface-guidelines/ios/bars/sidebars/
